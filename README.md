@@ -1,0 +1,2 @@
+# Recommender-Systems
+A Recommender System is a process that seeks to predict user preferences. This Specialization covers all the fundamental techniques in recommender systems, from non-personalized and project-association recommenders through content-based and collaborative filtering techniques, as well as advanced topics like matrix factorization, hybrid machine learning methods for recommender systems, and dimension reduction techniques for the user-product preference space.
