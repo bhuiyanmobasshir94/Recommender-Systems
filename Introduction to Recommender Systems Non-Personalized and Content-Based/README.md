@@ -38,3 +38,6 @@
     -   Algorithms optimze performance against metrics
     -   Metrics designed to improve user experience and business goals
 - Continuing adoption of new machine learning techniques 
+
+#### Implicit ratings
+-    It is possible to look at time-spent-browsing, clicks, purchases, review text, forwards, and lots of other things all together

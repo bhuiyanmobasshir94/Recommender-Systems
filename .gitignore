@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Custom
-videos/
+*.mp4
 plans.md
