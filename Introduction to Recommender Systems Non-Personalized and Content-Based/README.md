@@ -41,3 +41,6 @@
 
 #### Implicit ratings
 -    It is possible to look at time-spent-browsing, clicks, purchases, review text, forwards, and lots of other things all together
+
+#### Organic display of recommendations
+-    This is designed to fit in and not overwhelm the listening experience with “in-your-face” recommendations.
