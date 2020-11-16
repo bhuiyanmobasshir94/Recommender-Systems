@@ -44,3 +44,8 @@
 
 #### Organic display of recommendations
 -    This is designed to fit in and not overwhelm the listening experience with “in-your-face” recommendations.
+
+#### Resouces and downloads
+1. [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. [IntelliJ Idea](https://www.jetbrains.com/idea/download/)
+3. [Lenskit Hello](https://github.com/lenskit/lenskit-hello)
