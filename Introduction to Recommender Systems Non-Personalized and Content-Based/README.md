@@ -45,7 +45,12 @@
 #### Organic display of recommendations
 -    This is designed to fit in and not overwhelm the listening experience with “in-your-face” recommendations.
 
-#### Resouces and downloads
+#### Resouces and downloads from week 1
 1. [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. [IntelliJ Idea](https://www.jetbrains.com/idea/download/)
 3. [Lenskit Hello](https://github.com/lenskit/lenskit-hello)
+
+#### Resources and downloads from week 2
+1. [How Not to Sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+2. [How Hacker News Ranking Algorithm Works](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d)
+3. [How Reddit ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
