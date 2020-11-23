@@ -41,4 +41,4 @@ Learners in the honors track will focus on experimental evaluation of the algori
 
 Both groups will produce a capstone report documenting the analysis, the selected solution, and the justification for that solution.
 
-A great repo for all coursera courses - [repo](https://github.com/shenweichen/Coursera)
+**A great repo for all coursera courses** - [repo](https://github.com/shenweichen/Coursera)
