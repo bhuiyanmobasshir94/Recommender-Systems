@@ -40,3 +40,5 @@ This capstone project course for the Recommender Systems Specialization brings t
 Learners in the honors track will focus on experimental evaluation of the algorithms against medium sized datasets.  The standard track will include a mix of provided results and spreadsheet exploration.
 
 Both groups will produce a capstone report documenting the analysis, the selected solution, and the justification for that solution.
+
+A great repo for all coursera courses - [repo](https://github.com/shenweichen/Coursera)
