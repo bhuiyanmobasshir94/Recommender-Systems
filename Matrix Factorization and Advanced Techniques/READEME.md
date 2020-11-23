@@ -4,4 +4,4 @@ The gradient descent approach - particularly with regularization, or with additi
 
 However, in practice - especially with a sufficiently small learning rate - they may be orthogonal enough that folding-in works with acceptable accuracy. Whether it works depends on data set, application, and choice of hyperparameters (such as learning rate and regularization strength). If you need folding-in, test with your data and see if it is effective or if it introduces unacceptable accuracy loss.
 
-For more information on this, see: https://math.stackexchange.com/a/653158.
+For more information on this, [see:](https://math.stackexchange.com/a/653158).
