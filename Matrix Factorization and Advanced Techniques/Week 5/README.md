@@ -1,0 +1,1 @@
+- Learning to rank [link](https://youtu.be/BLlvk_ODqFQ)
